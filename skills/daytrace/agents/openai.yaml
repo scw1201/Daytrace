@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daytrace"
+  short_description: "从工作会话提取当天成果，按模板生成先总结再展开的可追溯日报"
+  default_prompt: "使用 $daytrace，根据指定工作会话、日期和模板生成适合目标读者的日报。"
